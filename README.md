@@ -4,5 +4,5 @@
 npm Install
 
 <h4>To run</h4>
->cd angular2-quickstart
+>cd angular2-quickstart <br>
 >npm install
