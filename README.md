@@ -5,4 +5,6 @@ npm Install
 
 <h4>To run</h4>
 >cd angular2-quickstart <br>
->npm install
+>npm start
+
+Your project will be running on http://localhost:3000/
